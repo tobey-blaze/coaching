@@ -1,8 +1,3 @@
----
-title: Tobey-Blaze-Coaching-for-Professionals-in-Transition
-date: 2025-05-16
----
-
 # Tobey Blaze: Coaching for Professionals in Transition
 
 ## **Lead with clarity—even when the ground shifts beneath you.**
