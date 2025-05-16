@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Tobey Blaze: Coaching for Professionals in Transition
 ---
 
 # Tobey Blaze: Coaching for Professionals in Transition
